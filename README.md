@@ -46,4 +46,4 @@ print('Using device:', device)
 
 
 ## Resources
-[youtube:](https://youtu.be/nATRPPZ5dGE?si=DZduTDiAZHJDsAsw)
+[youtube](https://youtu.be/nATRPPZ5dGE?si=DZduTDiAZHJDsAsw)
